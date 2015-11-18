@@ -2,6 +2,8 @@
 layout: home
 ---
 
-# Jekyll Disqus Forum
+# Small Claims Question Forum
 
-A simple forum managed by Jekyll and powered by Disqus. Find out more on [github](http://www.github.com/klcodanr/Jekyll-Disqus-Forum).
+
+You can browse questions from former users, or post questions of your own if you're seeking answers.
+
